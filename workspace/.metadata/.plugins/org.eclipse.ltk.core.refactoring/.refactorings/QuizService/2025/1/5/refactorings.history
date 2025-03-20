@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;QuizRepo&apos; to &apos;quizRepo&apos;&#x0D;&#x0A;- Original project: &apos;QuizService&apos;&#x0D;&#x0A;- Original element: &apos;QuizService/src/main/java/QuizRepo&apos;&#x0D;&#x0A;- Renamed element: &apos;QuizService/src/main/java/quizRepo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;QuizRepo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;QuizRepo" name="quizRepo" qualified="false" references="true" stamp="1738313482222" textual="false" version="1.0"/>
+</session>
